@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gooking/wxapi.git"
+    "url": "git+https://github.com/WenLiHou/wx-srv-api.git"
   },
   "author": "muxi",
   "license": "MIT",
@@ -63,9 +63,9 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/gooking/wxapi/issues"
+    "url": "https://github.com/WenLiHou/wx-srv-api/issues"
   },
-  "homepage": "https://github.com/gooking/wxapi#readme",
+  "homepage": "https://github.com/WenLiHou/wx-srv-api#readme",
   "directories": {
     "test": "test"
   }
