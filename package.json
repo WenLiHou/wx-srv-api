@@ -1,6 +1,6 @@
 {
   "name": "@muxi/wx-srv-api",
-  "version": "3.20.0",
+  "version": "1.0.0",
   "description": "新增微信支付服务商版本支付",
   "main": "miniprogram_dist/index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "type": "git",
     "url": "git+https://github.com/WenLiHou/wx-srv-api.git"
   },
-  "author": "muxi",
+  "author": "wenlihou",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
